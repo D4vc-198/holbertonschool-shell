@@ -1,0 +1,12 @@
+#!/bin/bash
+#text=""
+#echo "inserta tu nombre >" 
+#read text
+#echo $text
+commit=""
+git add .
+echo "Inserte su commit"
+read commit
+git commit -m "$commit"
+git push
+
