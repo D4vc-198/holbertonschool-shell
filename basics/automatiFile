@@ -1,7 +1,0 @@
-#!/bin/bash
-nameFile=""
-echo "Nombre del archivo"
-read nameFile
-touch $nameFile
-chmod u+x $nameFile
-vi $nameFile
