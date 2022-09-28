@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 . ../basics
+chmod -R ogu+X
