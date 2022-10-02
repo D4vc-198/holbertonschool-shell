@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | cut -c 1 | tr -d '[:blank:]'
+cat | cut -b 1 | tr -d '[:blank:]'
