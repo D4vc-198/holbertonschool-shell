@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | cut -b 1 | fmt | rev
+cut -b 1 | fmt
